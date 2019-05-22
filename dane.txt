@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 taniec to moje hobby od dziecka, rodzinna tradycja
+=======
+moje hobby to taniec
+>>>>>>> nazwa
