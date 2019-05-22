@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 taniec to moje hobby od dziecka, rodzinna tradycja
 =======
 moje hobby to taniec
 >>>>>>> nazwa
+=======
+Taniec jest to rodzaj sportu, który pomaga rozwijaæ nasz¹ koordynacjê.
+>>>>>>> opis
